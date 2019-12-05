@@ -58,8 +58,6 @@ $ composer database
 $ composer start
 ```
 
-[![How to install](extras/img/how-to-install-2.gif)](https://youtu.be/xQfTcKbD7NI)
-
 
 ### With Docker:
 
